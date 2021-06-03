@@ -21,3 +21,6 @@
 
 # general
 .DS_Store
+
+# Virtual Environment
+.venv
